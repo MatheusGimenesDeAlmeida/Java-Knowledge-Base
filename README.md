@@ -2,7 +2,8 @@
 
 Resumo dos aprendizados da linguagem de programação JAVA da matéria Desenvolvimento Colaborativo Ágil do terceiro semestre de engenharia de computação do Insper.
 
-- Professor: Marcelo Hashimoto
+Professor: 
+- Marcelo Hashimoto
 
 Aprendizados: 
 - Programação orientada a objetos
