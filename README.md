@@ -6,6 +6,7 @@ Resumo dos aprendizados da linguagem de programação JAVA da matéria Desenvolv
 
 Aprendizados: 
 - Programação orientada a objetos
+- Arquitetura e modelagem;
 - Implementação de heranças;
 - Implementação de sobrecargas;
 - Utilização de Mocks (mockito);
