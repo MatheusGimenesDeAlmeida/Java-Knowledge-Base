@@ -15,3 +15,6 @@ Aprendizados:
 - Estratégias de refatoração;
 - Interfaces;
 - Tratar e lançar exceções.
+- Servidores REST
+- Web API
+- Data Access Object (DAO)
